@@ -1,5 +1,5 @@
 const apikey = 'f974bfaf'
-const API_ENDPOINT = 'http://www.omdbapi.com'
+const API_ENDPOINT = 'https://www.omdbapi.com'
 
 export async function fetchMovies (params) {
  
